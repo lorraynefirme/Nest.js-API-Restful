@@ -60,16 +60,16 @@ $ npm run test:cov
 ## Endpoints
 
 # POST
-[$ npm run test](http://localhost:3000/usuarios)
+http://localhost:3000/usuarios
 
 # GET
-[$ npm run test](http://localhost:3000/usuarios)
+http://localhost:3000/usuarios
 
 # PUT
-[$ npm run test:cov](http://localhost:3000/usuarios/id)
+http://localhost:3000/usuarios/id
 
 # DELETE
-[$ npm run test:cov](http://localhost:3000/usuarios/id)
+http://localhost:3000/usuarios/id
 
 ## Support
 
