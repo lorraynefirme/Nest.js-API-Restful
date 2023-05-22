@@ -57,6 +57,12 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+## Endpoints
+
+# POST: http://localhost:3000/usuarios
+# GET: http://localhost:3000/usuarios
+# PUT: http://localhost:3000/usuarios/id
+# DELETE: http://localhost:3000/usuarios/id
 
 ## Support
 
