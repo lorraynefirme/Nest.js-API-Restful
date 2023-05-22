@@ -58,18 +58,20 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 ## Endpoints
+```bash
 
-### POST
+# POST
 http://localhost:3000/usuarios
 
-### GET
+# GET
 http://localhost:3000/usuarios
 
-### PUT
+# PUT
 http://localhost:3000/usuarios/id
 
-### DELETE
+# DELETE
 http://localhost:3000/usuarios/id
+```
 
 ## Support
 
